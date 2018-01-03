@@ -1,4 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+	  <link rel="stylesheet" href="style.css">
+	  </head>
+  <body>
 <?php
 echo "Hello World"
-	echo "Hello"
+echo "Hello"
 	?>
+</body>
+</html>
