@@ -1,2 +1,4 @@
-# djangogirlscms
+#dlelab
 Первый проект для веб разработки на Django
+пользователь snow
+пароль dlelab77
